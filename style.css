@@ -45,6 +45,12 @@ body {
     transition: 0.5s;
 }
 
+.information {
+    width: 280px;
+    height: 280px;
+    background: #010615;
+}
+
 .box:hover .imgBx img {
     opacity: 1;
 }
